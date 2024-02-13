@@ -1,4 +1,8 @@
 ﻿# MobileRobotCNN
+ 
+## CNN Simulation:
+
+https://youtu.be/obZGE0keGt8
 
 ![Alt text](<Source/Document/image2.png>)
 
